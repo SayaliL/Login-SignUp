@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PPB1</string>
+    <string name="todo">TODO</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="button">Button</string>
+</resources>
